@@ -54,3 +54,7 @@ module.exports = {
     getUser,
     getUsersInRoom
 }
+
+
+
+console.log('hi')
